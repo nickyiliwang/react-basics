@@ -1,3 +1,10 @@
+This is a practice app with multiple smaller applications in different components for reviewing basic react concepts practically. 
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
