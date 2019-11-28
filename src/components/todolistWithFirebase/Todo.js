@@ -88,7 +88,7 @@ export default class Todo extends Component {
           </span>
           <span
             className="deleteTodo"
-            onClick={() => this.handleOnDelete(book.bookId)}
+            // onClick={() => this.handleOnDelete(book.bookId)}
           >
             X
           </span>
