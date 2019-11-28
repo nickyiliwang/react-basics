@@ -1,0 +1,10 @@
+form {
+    text-align: center;
+}
+
+.deleteBook {
+    padding: 0 20px;
+    color: red;
+    cursor: pointer;
+}
+

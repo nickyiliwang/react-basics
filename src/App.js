@@ -1,11 +1,13 @@
 import React, { Component } from 'react'
 import './App.css'
-import ArtApp from './components/AnotherArtApp/RijksMuseumApi'
+// import FirebaseBookShelf from './components/FireBaseBook-Shelf/FirebaseBookShelf'
+import Todo from './components/todolistWithFirebase/Todo' 
 export default class App extends Component {
   render() {
     return (
       <div>
-        <ArtApp />
+        {/* <FirebaseBookShelf /> */}
+      <Todo />
       </div>
     )
   }
