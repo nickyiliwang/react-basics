@@ -1,14 +1,13 @@
-import React, { Component } from 'react'
-import './App.css'
-import FirebaseBookShelf from './components/FireBaseBook-Shelf/FirebaseBookShelf'
-// import Todo from './components/todolistWithFirebase/Todo' 
+import React, { Component } from "react";
+import "./App.css";
+import HarryPotterSpiApp from "./components/SafiApiLesson/HarryPotterSpiApp";
 export default class App extends Component {
   render() {
     return (
       <div>
-        <FirebaseBookShelf />
-      {/* <Todo /> */}
+        <HarryPotterSpiApp />
       </div>
-    )
+    );
   }
 }
+  
